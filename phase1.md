@@ -51,3 +51,33 @@ If yes to any of these questions:
 5. What improvements would you suggest to the power & sleep settings?
 
 ### Script
+
+Hello [subject], my name is [surveyor]. Thank you for participating in our study. I am a Computer 
+Science student at the University of Michigan Flint. I am a member of a group working on a project for our Human Computer Interaction course.
+
+We are studying the Windows power and sleep settings and hope to improve the user experience. 
+To do this, I'm going to ask you to perform some tasks that will help us determine any issues with the system.
+
+Before we begin, I’d like to ask you some questions about your experience with Windows power and sleep settings.
+
+1. Have you touched the power & sleep settings in Windows 10?
+2. Have you touched the power & sleep settings in a different version of Windows?
+3. Have you touched the power & sleep settings in a different operating system? (macOS, Linux, iOS, etc.)
+
+If yes to any of these questions:
+
+4. How often do you use the power & sleep settings?
+5. When was the last time you used the power & sleep settings?
+6. What was your experience last time?
+7. What prompts you to change the power & sleep settings?
+8. What settings do you change the most?
+9. What settings do you search for the most?
+10. What problems did you encounter when changing the power & sleep settings?
+
+**End of Pre-study:**
+
+Thank you for your answers. We are going to move on to the tasks now.
+
+I'm going to ask you to perform some tasks, I will only tell you what to do and not how to do it. We will not be judging your performance. Our goal is to find issues with the system so any difficulty you have performing the tasks is actually what we are looking for. This means we can work on improving that component of the system. Please feel free to talk through your thought process to give us as much insight as possible. This will help us to be more effective in improving the system.
+
+**Representative Tasks Begin**
