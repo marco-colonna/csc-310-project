@@ -9,7 +9,7 @@ September 12, 2022
 System name: Windows 10 Power & sleep settings
 
 ### System Description
-Windows Settings is a component of Microsoft Windows Operating System. It allows users to adjust their user preferences. Power & sleep settings allow the user to have greater control over their device's efficiency regarding battery life and power consumption as well as the function of the power button or closing the lid of a laptop computer. This can majorly affect the experience and performance of a user's device, so it must be as simple to understand and use as possible while still fitting with the flow and style of the Windows operating system.
+Windows Settings is a component of Microsoft Windows Operating System. It allows users to adjust their user preferences regarding many functions of their device. Power & sleep settings allow the user to have greater control over their device's efficiency regarding battery life and power consumption as well as the function of the power button or closing the lid of a laptop computer. This can majorly affect the experience and performance of a user's device, so it must be as simple to understand and use as possible while still fitting with the flow and style of the Windows operating system.
 
 ### Representative tasks
 
