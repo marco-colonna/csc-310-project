@@ -8,7 +8,7 @@ September 28, 2022
 
 ### Description of users
 
-**P1:** P1 is a 25 year old, white, female. She has a bachelor’s degree and has experience with computers through school and work. She is mostly familiar with Apple operating systems through school and her personal electronics. She has little experience adjusting any settings on any computers.
+**P1:** P1 is a 25 year old, white, female. She has a bachelor’s degree and has experience with computers through school and work. She is mostly familiar with Apple operating systems. She has limited experience adjusting any settings on any OS.
 
 **P2:** P2 is a 62 year old, white female. She has limited experience with computers through personal use. She has limited to no prior experience adjusting any settings on any computers.
 
