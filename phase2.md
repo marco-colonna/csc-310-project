@@ -14,11 +14,11 @@ September 28, 2022
 
 **P3:** P3 is a 25 year old, black female. She has some experience with computers for school and work, but is primarily a Mac user.
 
-**P4:** P4 is a 19 year old, white female. She has experience with windows on the desktop for school, but no laptop experience, and therefore is not too familiar with some of the more laptop-oriented options.
+**P4:** P4 is a 19 year old, white female. She has experience with Windows on the desktop for school, but no laptop experience, and therefore is not too familiar with some of the more laptop-oriented options.
 
-**P5:** Description.
+**P5:** P5 is a 21 year old, white, college female. She is familiar with Windows, but primarily uses a Mac for school and work. She adjusts settings on her computers on an infrequent basis.
 
-**P6:** Description.
+**P6:** P6 is an 18 year old, white, male. He is experienced with Windows computers, but does not have much experience changing advanced settings.
 
 [**Link to folder of transcripts.**](Transcripts)
 
@@ -26,7 +26,12 @@ September 28, 2022
 
 #### Artifact model
 
-image of artifact model
+![Artifact Model-1](https://user-images.githubusercontent.com/84739957/192847981-faa1ade1-afc6-4a5f-90f7-0fd85847ad01.jpg)
+![Artifact Model-2](https://user-images.githubusercontent.com/84739957/192847988-6b15ab79-204a-48c1-9521-ca8cf58c5f20.jpg)
+![Artifact Model-3](https://user-images.githubusercontent.com/84739957/192847998-1abde01c-d231-4741-87fc-21200187a0b1.jpg)
+![Artifact Model-4](https://user-images.githubusercontent.com/84739957/192848004-23cbe2e6-16c4-4306-9d47-ecb667c481e5.jpg)
+![Artifact Model-5](https://user-images.githubusercontent.com/84739957/192848016-61f1af9f-6e41-4b47-8f44-b25701f79314.jpg)
+![Artifact Model-6](https://user-images.githubusercontent.com/84739957/192848028-d932a90b-1ecf-4a4a-b70e-807229c3fdb9.jpg)
 
 #### Flow model
 
