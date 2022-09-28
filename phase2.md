@@ -14,7 +14,7 @@ September 28, 2022
 
 **P3:** P3 is a 25 year old, black female. She has some experience with computers for school and work, but is primarily a Mac user.
 
-**P4:** P4 is a 19 year rold, white female. She has experience with windows on the desktop for school, but no laptop experience, and therefore is not too familiar with some of the more laptop-oriented options.
+**P4:** P4 is a 19 year old, white female. She has experience with windows on the desktop for school, but no laptop experience, and therefore is not too familiar with some of the more laptop-oriented options.
 
 **P5:** Description.
 
