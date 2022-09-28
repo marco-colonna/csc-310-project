@@ -42,7 +42,7 @@ image of social model
 
 **Do** have a search bar available on all windows (P2: Line 61; P3: Line 51)
 
-*; P3: 41-47; P4: Line 39-43*Do** use check boxes for easy adjustment of visible settings (P1: Line 79; P2: Line 48; P3: Line 71; P4: Line 61)
+**Do** use check boxes for easy adjustment of visible settings (P1: Line 79; P2: Line 48; P3: Line 71; P4: Line 61)
 
 **Do** list other power setting categories to make it easy to navigate to from current power settings (P2: Line 35)
 
