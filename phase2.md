@@ -20,6 +20,8 @@ September 28, 2022
 
 **P6:** Description.
 
+[**Link to folder of transcripts.**](Transcripts)
+
 ### Contextual analysis diagrams
 
 #### Artifact model
