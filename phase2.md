@@ -39,7 +39,9 @@ image of flow model
 
 #### Social model
 
-image of social model
+![HCI social model](https://user-images.githubusercontent.com/113215701/192908096-b1df091d-90c7-4ac9-98db-e6cf49f52519.png)
+
+
 
 ### Do's and don'ts
 
