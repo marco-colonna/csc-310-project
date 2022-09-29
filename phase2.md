@@ -35,7 +35,8 @@ September 28, 2022
 
 #### Flow model
 
-image of flow model
+![Flow Model](https://user-images.githubusercontent.com/3681297/192921001-201dad69-fb30-4b03-b9bc-391873d439a2.png)
+
 
 #### Social model
 
