@@ -1,4 +1,5 @@
-# CSC 310 Human Computer Interaction Group Project# [Main Page](https://github.com/marco-colonna/csc-310-project)
+# CSC 310 Human Computer Interaction Group Project
+[Main Page](https://github.com/marco-colonna/csc-310-project)
 
 Team Windows: Marco Colonna, Ella Nikitin, Aaron Prichard
 
