@@ -56,11 +56,45 @@ We expect all kinds of users to want to change the power settings on their devic
 
 #### Paper prototype
 
+All tabs minimized
+![Minimized](https://user-images.githubusercontent.com/84739957/195438303-bef27bed-d405-425b-ab0f-5f57691e4d7d.jpg)
+One tab maximized
+![OneMaximized](https://user-images.githubusercontent.com/84739957/195438314-f2c70cec-69ea-4304-bd3b-4b459cad23fc.jpg)
+All tabs maximized
+![Maximized](https://user-images.githubusercontent.com/84739957/195438326-e42752a1-a4af-4e92-b926-4ae3297ad8fb.jpg)
+
 #### Tasks
+
+1. Change the screen to turn off after 1 minute.
+2. Change the computer to go to sleep after 1 hour.
+3. Set the power button to put the computer to sleep.
+4. Turn on fast startup.
+5. Allow the Hibernate option to show in the Power menu.
+6. Set the hard disk to never turn off.
+7. Change playing video to optimize video quality.
+8. Set the settings to the high performance default settings.
 
 #### Sequence
 
+1. Change the screen to turn off after 1 minute.
+2. Change the computer to go to sleep after 1 hour.
+3. Set the power button to put the computer to sleep.
+4. Turn on fast startup.
+5. Allow the Hibernate option to show in the Power menu.
+6. Set the hard disk to never turn off.
+7. Change playing video to optimize video quality.
+8. Set the settings to the high performance default settings.
+
 #### Instruction
+
+1. Change the screen to turn off after 1 minute.
+2. Change the computer to go to sleep after 1 hour.
+3. Set the power button to put the computer to sleep.
+4. Turn on fast startup.
+5. Allow the Hibernate option to show in the Power menu.
+6. Set the hard disk to never turn off.
+7. Change playing video to optimize video quality.
+8. Set the settings to the high performance default settings.
 
 ### Storyboard
 
