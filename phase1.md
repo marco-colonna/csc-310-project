@@ -1,9 +1,10 @@
-[Main Page](https://github.com/marco-colonna/csc-310-project)
 # CSC 310 Human Computer Interaction Group Project
 
 Team Windows: Marco Colonna, Ella Nikitin, Aaron Prichard
 
 September 12, 2022
+
+| [Main Page](https://github.com/marco-colonna/csc-310-project) | [Phase 1](https://github.com/marco-colonna/csc-310-project/blob/main/phase1.md) | [Phase 2](https://github.com/marco-colonna/csc-310-project/blob/main/phase2.md) | [Phase 3](https://github.com/marco-colonna/csc-310-project/blob/main/phase3.md) | Phase 4 | Phase 5 | Phase 6 | Phase 7 |
 
 ## Phase 1: Pick a system and representative tasks
 
@@ -28,7 +29,7 @@ Windows Settings is a component of Microsoft Windows Operating System. It allows
 
 ### Questionnaire
 
-**Pre-study:**
+#### Pre-study:
 
 1. Have you touched the power & sleep settings in Windows 10?
 2. Have you touched the power & sleep settings in a different version of Windows?
@@ -44,7 +45,7 @@ If yes to any of these questions:
 9. What settings do you search for the most?
 10. What problems did you encounter when changing the power & sleep settings?
 
-**Post-study:**
+#### Post-study:
 
 1. Which of these settings have you changed before?
 2. Of the settings you haven't changed before, are there any settings you would now change on your own computer?
