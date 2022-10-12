@@ -31,6 +31,13 @@ Aaron Sketch #3
 
 ### Collective Sketches
 
+Collective Sketch #1
+![Collective Sketch #1](https://user-images.githubusercontent.com/84739957/195435707-b1251261-3690-427d-8565-440eb05e2b91.JPG)
+Collective Sketch #2
+![Collective Sketch #2](https://user-images.githubusercontent.com/84739957/195435714-1a649609-e5be-4f76-9276-253870656899.jpg)
+Collective Sketch #3
+![Collective Sketch #3](https://user-images.githubusercontent.com/84739957/195435718-9f3408e5-d47a-4951-aef8-d88780ff09b5.jpg)
+
 ### Design Rationale
 
 In this project, we came up with three collaborative sketches for this problem. The difference between them mainly stems from how the settings are organized. In sketch #1, all of the settings are together on one screen, while on sketch #2, the settings are split up into different screens, and in sketch #3 there are tabs for the different groups of settings, as well as a pop up for advanced settings. The other difference is that sketch #1 has removed power plans. Sketch #1 has the advantage of keeping everything on one screen. Sketch #2 and #3 both allow some level of splitting up to make things less cluttered. In the end we picked sketch #1 because we believe the user will have an easier time finding things.
@@ -44,3 +51,17 @@ Our user interface is to replace the power and sleep settings on windows. Becaus
 ### User Assumptions
 
 We expect all kinds of users to want to change the power settings on their devices. This includes users that may not be familiar with computers.
+
+### Complete prototype
+
+#### Paper prototype
+
+#### Tasks
+
+#### Sequence
+
+#### Instruction
+
+### Storyboard
+
+Storyboard goes here.
