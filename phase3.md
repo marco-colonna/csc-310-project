@@ -4,3 +4,5 @@
 Team Windows: Marco Colonna, Ella Nikitin, Aaron Prichard
 
 October 12th, 2022
+
+## Phase 3: Sketches and Prototype
