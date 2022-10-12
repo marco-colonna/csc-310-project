@@ -1,9 +1,10 @@
-[Main Page](https://github.com/marco-colonna/csc-310-project)
 # CSC 310 Human Computer Interaction Group Project
 
 Team Windows: Marco Colonna, Ella Nikitin, Aaron Prichard
 
 September 28, 2022
+
+| [Main Page](https://github.com/marco-colonna/csc-310-project) | [Phase 1](https://github.com/marco-colonna/csc-310-project/blob/main/phase1.md) | [Phase 2](https://github.com/marco-colonna/csc-310-project/blob/main/phase2.md) | [Phase 3](https://github.com/marco-colonna/csc-310-project/blob/main/phase3.md) | Phase 4 | Phase 5 | Phase 6 | Phase 7 |
 
 ## Phase 2: Contextual inquiry and analysis
 
@@ -37,7 +38,6 @@ September 28, 2022
 #### Flow model
 
 ![Flow Model](https://user-images.githubusercontent.com/3681297/192921001-201dad69-fb30-4b03-b9bc-391873d439a2.png)
-
 
 #### Social model
 
