@@ -99,23 +99,23 @@ All tabs maximized
 8. Now set the settings to the high performance default settings.
 
 ### Storyboard
+1. Main Menu
+![Slide1](https://user-images.githubusercontent.com/113215701/195474446-705cda2e-9bbe-47b9-ad46-8298068e4a3b.PNG)
 
- ![Slide1](https://user-images.githubusercontent.com/113215701/195474446-705cda2e-9bbe-47b9-ad46-8298068e4a3b.PNG)
-
-1. User changes the screen to turn off after 1 minute with dropdown
+2. User changes the screen to turn off after 1 minute with dropdown
 ![Slide2](https://user-images.githubusercontent.com/113215701/195474458-da58f783-d48d-4bd4-9014-24ef126312fc.PNG)
 
-2. User changes the computer to go to sleep after 1 hour with dropdown
+3. User changes the computer to go to sleep after 1 hour with dropdown
 ![Slide3](https://user-images.githubusercontent.com/113215701/195474469-a8eb6581-4e60-446f-8fe0-896d9acd1c6b.PNG)
 
-3. User expands power button category to change its function
+4. User expands power button category to change its function
 ![Slide4](https://user-images.githubusercontent.com/113215701/195474487-4a9fcb1e-09f0-4fa8-9a01-fbaa1bfb5b5e.PNG)
 
-4. User expands shutdown settings to turn on fast start up and show hibernate in the power menu
+5. User expands shutdown settings to turn on fast start up and show hibernate in the power menu
 ![Slide5](https://user-images.githubusercontent.com/113215701/195474508-ed43cdad-a6f7-4d2d-9451-7219c7a23311.PNG)
 
-5. User expands Advanced Power Settings to change hard disk shutdown time and video playback to bias quality.
+6. User expands Advanced Power Settings to change hard disk shutdown time and video playback to bias quality.
  ![Slide6](https://user-images.githubusercontent.com/113215701/195474518-2929555a-f198-4668-88ad-9a2185153f96.PNG)
 
-6. User resets settings to pre-configured high performance settings.
+7. User resets settings to pre-configured high performance settings.
 ![Slide7](https://user-images.githubusercontent.com/113215701/195474530-c00c62f2-fce5-4d7c-8b4c-96d85c10309c.PNG)
