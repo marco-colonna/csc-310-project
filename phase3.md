@@ -100,7 +100,7 @@ All tabs maximized
 
 ### Storyboard
 
-![Slide1](https://user-images.githubusercontent.com/113215701/195474446-705cda2e-9bbe-47b9-ad46-8298068e4a3b.PNG)
+ ![Slide1](https://user-images.githubusercontent.com/113215701/195474446-705cda2e-9bbe-47b9-ad46-8298068e4a3b.PNG)
 
 1. User changes the screen to turn off after 1 minute with dropdown
 ![Slide2](https://user-images.githubusercontent.com/113215701/195474458-da58f783-d48d-4bd4-9014-24ef126312fc.PNG)
