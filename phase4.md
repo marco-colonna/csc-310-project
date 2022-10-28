@@ -10,7 +10,7 @@ October 27th, 2022
 
 ### Usability evaluations
 
-[**Link to usability evaluations.**](https://github.com/marco-colonna/csc-310-project/tree/main/Usability%20Evaluations)
+[**Link to usability evaluations.**](https://github.com/marco-colonna/csc-310-project/tree/main/Usability%20Evaluations) (Click 'more pages' at the bottom of the page when viewing the pdf in github)
 
 ### Revised paper prototype
 
