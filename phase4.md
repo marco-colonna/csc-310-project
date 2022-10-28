@@ -14,6 +14,6 @@ October 27th, 2022
 
 ### Revised paper prototype
 
-insert photos of revised paper prototype
+![Prototype](https://user-images.githubusercontent.com/84739957/198459416-78e759ba-6b56-407e-b71a-fdc05e292898.jpg)
 
 insert summary of changes
