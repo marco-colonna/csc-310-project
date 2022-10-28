@@ -11,7 +11,6 @@ October 27th, 2022
 ### Usability evaluations
 
 [**Link to usability evaluations.**](https://github.com/marco-colonna/csc-310-project/tree/main/Usability%20Evaluations)
-^ need to compile all individual evaluations, and create a new final evaluation combining all issues found in each, this combined report needs to be first, and then all the individual reports
 
 ### Revised paper prototype
 
