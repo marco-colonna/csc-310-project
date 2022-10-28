@@ -1,5 +1,5 @@
 | [Main Page](https://github.com/marco-colonna/csc-310-project) | [Phase 1](https://github.com/marco-colonna/csc-310-project/blob/main/phase1.md) | [Phase 2](https://github.com/marco-colonna/csc-310-project/blob/main/phase2.md) | [Phase 3](https://github.com/marco-colonna/csc-310-project/blob/main/phase3.md) | [Phase 4](https://github.com/marco-colonna/csc-310-project/blob/main/phase4.md) |
-> [**Link to individual files.**](https://github.com/marco-colonna/csc-310-project/tree/main/Usability%20Evaluations)
+> [**Link to individual files.**](https://github.com/marco-colonna/csc-310-project/tree/main/Usability%20Evaluations/Individual%20Files)
 # Final Usability Evaluation
 ![Usability Evaluation Report Combined-02](https://user-images.githubusercontent.com/113215701/198454393-6a03f807-01d3-4f3b-b164-ca839745c365.jpg)
 ![Usability Evaluation Report Combined-04](https://user-images.githubusercontent.com/113215701/198454399-818dbac8-9890-40e4-810b-a3aa2535469d.jpg)
