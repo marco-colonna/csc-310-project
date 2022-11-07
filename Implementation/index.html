@@ -7,6 +7,13 @@
     <title>Power & sleep settings</title>
 </head>
 <style>
+.titleBG {
+  border: 2px outset black;
+  background-color: #242424; 
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+}
 details>summary {
     list-style-type: '⊞';
 }
@@ -15,7 +22,9 @@ details[open] > summary {
 }
 </style>
 <body>
-    <h1>Power & sleep</h1>
+    <div class="titleBG">
+	<h1>Power & Sleep</h1>
+	</div>
     <label>Turn off screen after</label>
         <select>
             <option>1 minute</option>
