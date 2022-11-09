@@ -7,12 +7,10 @@
     <title>Power & sleep settings</title>
 </head>
 <style>
-.titleBG {
-  border: 2px outset black;
-  background-color: #242424; 
+body {
+  background-color: #121212; 
   color: white;
-  text-align: center;
-  border-radius: 10px;
+  font-family: segoe, sans-serif;
 }
 details>summary {
     list-style-type: '⊞';
@@ -20,11 +18,42 @@ details>summary {
 details[open] > summary {
     list-style-type: '⊟';
 }
+select {
+    display: inline-block;
+    width: 10em;
+	margin-left:3em;
+}
+input {
+	margin-left:1em;
+	}
+button {
+	display: inline-block;
+    width: 8em;
+	margin-left:1em;
+}
+label {
+	display: inline-block;
+	width: 15em;
+	margin-left:1em;
+	}
+.powerCategory{
+	display: inline-block;
+	width: 8em;
+	margin-left:3em;
+	}
+
 </style>
+
 <body>
-    <div class="titleBG">
 	<h1>Power & Sleep</h1>
+	<label> </label>
+	<div class="powerCategory">
+	<label>Plugged in</label> 
 	</div>
+	<div class="powerCategory">
+	<label>On battery</label>
+	</div>
+	<br>
     <label>Turn off screen after</label>
         <select>
             <option>1 minute</option>
@@ -224,14 +253,39 @@ details[open] > summary {
     </details>
     <details>
         <summary>Preset settings</summary>
+		<label>Current Plan: </label>
+		<label id="plan"></label>
+		<br>
         <label>Set to balance settings</label>
-        <button type="button">Change</button>
+        <button id="balanceBtn">Change</button>
         <br>
         <label>Set to high performance settings</label>
-        <button type="button">Change</button>
+        <button id="perfBtn">Change</button>
         <br>
         <label>Set to power saver settings</label>
-        <button type="button">Change</button>
+        <button id="saverBtn">Change</button>
     </details>
 </body>
+<script>
+document.getElementById("balanceBtn").addEventListener("click", setBalanced);
+document.getElementById("perfBtn").addEventListener("click", setPerformance);
+document.getElementById("saverBtn").addEventListener("click", setSaver);
+document.body.addEventListener("change", setCustom);
+
+function setBalanced() {
+  document.getElementById("plan").innerHTML = "Balanced";
+}
+
+function setPerformance() {
+  document.getElementById("plan").innerHTML = "Performance";
+}
+
+function setSaver() {
+  document.getElementById("plan").innerHTML = "Power Saver";
+}
+
+function setCustom() {
+  document.getElementById("plan").innerHTML = "Custom";
+}
+</script>
 </html>
