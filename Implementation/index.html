@@ -12,7 +12,12 @@ body {
   color: white;
   font-family: segoe, sans-serif;
 }
+details {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 details>summary {
+    font-size: 1.2em;
     list-style-type: '⊞';
 }
 details[open] > summary {
@@ -20,8 +25,13 @@ details[open] > summary {
 }
 select {
     display: inline-block;
-    width: 10em;
+    width: 15em;
 	margin-left:3em;
+    background-color: black;
+    color: #ddd;
+    border: 2px solid #aaa;
+    padding: 5px;
+    margin-bottom: 2px;
 }
 input {
 	margin-left:1em;
@@ -36,9 +46,19 @@ label {
 	width: 15em;
 	margin-left:1em;
 	}
+label.cblabel {
+    width: auto;
+    padding-top: 5px;
+    display: block;
+}
+input[type="checkbox"] {
+    filter: invert(1) hue-rotate(180deg);
+    margin: 5px;
+    transform: scale(1.5);
+}
 .powerCategory{
 	display: inline-block;
-	width: 8em;
+	width: 12em;
 	margin-left:3em;
 	}
 
@@ -165,17 +185,10 @@ label {
     </details>
     <details>
         <summary>Startup and shutdown</summary>
-        <input type="checkbox">
-        <label>Turn on fast startup</label>
-        <br>
-        <input type="checkbox">
-        <label>Show Sleep in Power menu</label>
-        <br>
-        <input type="checkbox">
-        <label>Show Hibernate in Power menu</label>
-        <br>
-        <input type="checkbox">
-        <label>Show Lock in Power menu</label>
+        <label class="cblabel"><input type="checkbox">Turn on fast startup</label>
+        <label class="cblabel"><input type="checkbox">Show Sleep in Power menu</label>
+        <label class="cblabel"><input type="checkbox">Show Hibernate in Power menu</label>
+        <label class="cblabel"><input type="checkbox">Show Lock in Power menu</label>
     </details>
     <details>
         <summary>Advanced power settings</summary>
