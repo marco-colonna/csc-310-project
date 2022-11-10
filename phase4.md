@@ -4,13 +4,15 @@ Team Windows: Marco Colonna, Ella Nikitin, Aaron Prichard
 
 October 27th, 2022
 
-| [Main Page](https://github.com/marco-colonna/csc-310-project) | [Phase 1](https://github.com/marco-colonna/csc-310-project/blob/main/phase1.md) | [Phase 2](https://github.com/marco-colonna/csc-310-project/blob/main/phase2.md) | [Phase 3](https://github.com/marco-colonna/csc-310-project/blob/main/phase3.md) | [Phase 4](https://github.com/marco-colonna/csc-310-project/blob/main/phase4.md) | Phase 5 | Phase 6 | Phase 7 |
+| [Main Page](https://marco-colonna.github.io/csc-310-project) | [Phase 1](https://marco-colonna.github.io/csc-310-project/phase1) | [Phase 2](https://marco-colonna.github.io/csc-310-project/phase2) | [Phase 3](https://marco-colonna.github.io/csc-310-project/phase3) | [Phase 4](https://marco-colonna.github.io/csc-310-project/phase4) | [Phase 5](https://marco-colonna.github.io/csc-310-project/phase5) | Phase 6 | Phase 7 |
 
 ## Phase 4: Usability evaluations of paper prototype
 
 ### Usability evaluations
 
-[**Link to usability evaluations.**](https://github.com/marco-colonna/csc-310-project/blob/main/Usability%20Evaluations/Final%20Usability%20Evaluation.md)
+[**Link to final usability evaluation.**](https://marco-colonna.github.io/csc-310-project/Usability%20Evaluations/Final%20Usability%20Evaluation)
+
+[**Link to folder of usability evaluations.**](https://github.com/marco-colonna/csc-310-project/tree/main/Usability%20Evaluations/Individual%20Files)
 
 ### Revised paper prototype
 
