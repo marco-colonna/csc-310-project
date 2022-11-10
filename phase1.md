@@ -4,14 +4,14 @@ Team Windows: Marco Colonna, Ella Nikitin, Aaron Prichard
 
 September 12, 2022
 
-| [Main Page](https://github.com/marco-colonna/csc-310-project) | [Phase 1](https://github.com/marco-colonna/csc-310-project/blob/main/phase1.md) | [Phase 2](https://github.com/marco-colonna/csc-310-project/blob/main/phase2.md) | [Phase 3](https://github.com/marco-colonna/csc-310-project/blob/main/phase3.md) | Phase 4 | Phase 5 | Phase 6 | Phase 7 |
+| [Main Page](https://marco-colonna.github.io/csc-310-project) | [Phase 1](https://marco-colonna.github.io/csc-310-project/phase1) | [Phase 2](https://marco-colonna.github.io/csc-310-project/phase2) | [Phase 3](https://marco-colonna.github.io/csc-310-project/phase3) | [Phase 4](https://marco-colonna.github.io/csc-310-project/phase4) | [Phase 5](https://marco-colonna.github.io/csc-310-project/phase5) | Phase 6 | Phase 7 |
 
 ## Phase 1: Pick a system and representative tasks
 
-### System Name
+### System name
 Windows 10 Power & sleep settings
 
-### System Description
+### System description
 Windows Settings is a component of Microsoft Windows Operating System. It allows users to adjust their user preferences regarding many functions of their device. Power & sleep settings allow the user to have greater control over their device's efficiency regarding battery life and power consumption as well as the function of the power button or closing the lid of a laptop computer. This can majorly affect the experience and performance of a user's device, so it must be as simple to understand and use as possible while still fitting with the flow and style of the Windows operating system.
 
 ### Representative tasks
