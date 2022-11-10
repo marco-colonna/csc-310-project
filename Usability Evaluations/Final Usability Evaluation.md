@@ -1,6 +1,11 @@
-| [Main Page](https://github.com/marco-colonna/csc-310-project) | [Back to Phase 4](https://github.com/marco-colonna/csc-310-project/blob/main/phase4.md) |
-> [**Link to individual files.**](https://github.com/marco-colonna/csc-310-project/tree/main/Usability%20Evaluations/Individual%20Files)
-# Final Usability Evaluation
+# CSC 310 Human Computer Interaction Group Project
+
+Team Windows: Marco Colonna, Ella Nikitin, Aaron Prichard
+
+| [Main Page](https://marco-colonna.github.io/csc-310-project) | [Phase 1](https://marco-colonna.github.io/csc-310-project/phase1) | [Phase 2](https://marco-colonna.github.io/csc-310-project/phase2) | [Phase 3](https://marco-colonna.github.io/csc-310-project/phase3) | [Phase 4](https://marco-colonna.github.io/csc-310-project/phase4) | [Phase 5](https://marco-colonna.github.io/csc-310-project/phase5) | Phase 6 | Phase 7 |
+
+## Final usability evaluation
+
 ![Usability Evaluation Report Combined-02](https://user-images.githubusercontent.com/113215701/198454393-6a03f807-01d3-4f3b-b164-ca839745c365.jpg)
 ![Usability Evaluation Report Combined-04](https://user-images.githubusercontent.com/113215701/198454399-818dbac8-9890-40e4-810b-a3aa2535469d.jpg)
 ![Usability Evaluation Report Combined-05](https://user-images.githubusercontent.com/113215701/198454406-fdeae06a-24f2-44db-8a79-0231e77f4f70.jpg)
