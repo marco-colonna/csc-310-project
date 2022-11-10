@@ -4,7 +4,7 @@ Team Windows: Marco Colonna, Ella Nikitin, Aaron Prichard
 
 September 28, 2022
 
-| [Main Page](https://github.com/marco-colonna/csc-310-project) | [Phase 1](https://github.com/marco-colonna/csc-310-project/blob/main/phase1.md) | [Phase 2](https://github.com/marco-colonna/csc-310-project/blob/main/phase2.md) | [Phase 3](https://github.com/marco-colonna/csc-310-project/blob/main/phase3.md) | Phase 4 | Phase 5 | Phase 6 | Phase 7 |
+| [Main Page](https://marco-colonna.github.io/csc-310-project) | [Phase 1](https://marco-colonna.github.io/csc-310-project/phase1) | [Phase 2](https://marco-colonna.github.io/csc-310-project/phase2) | [Phase 3](https://marco-colonna.github.io/csc-310-project/phase3) | [Phase 4](https://marco-colonna.github.io/csc-310-project/phase4) | [Phase 5](https://marco-colonna.github.io/csc-310-project/phase5) | Phase 6 | Phase 7 |
 
 ## Phase 2: Contextual inquiry and analysis
 
@@ -22,7 +22,7 @@ September 28, 2022
 
 **P6:** P6 is an 18 year old, white, male. He is experienced with Windows computers, but does not have much experience changing advanced settings.
 
-[**Link to folder of transcripts.**](Transcripts)
+[**Link to folder of transcripts.**](https://github.com/marco-colonna/csc-310-project/tree/main/Transcripts)
 
 ### Contextual analysis diagrams
 
@@ -41,7 +41,7 @@ September 28, 2022
 
 #### Social model
 
-![HCI social model](https://user-images.githubusercontent.com/113215701/192908353-87db34b3-075a-47d4-9890-3bb0fcda7a52.png)
+![HCI Social Model](https://user-images.githubusercontent.com/113215701/192908353-87db34b3-075a-47d4-9890-3bb0fcda7a52.png)
 
 ### Do's and don'ts
 
