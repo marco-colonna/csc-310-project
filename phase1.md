@@ -4,7 +4,7 @@ Team Windows: Marco Colonna, Ella Nikitin, Aaron Prichard
 
 September 12, 2022
 
-| [Main Page](https://marco-colonna.github.io/csc-310-project) | [Phase 1](https://marco-colonna.github.io/csc-310-project/phase1) | [Phase 2](https://marco-colonna.github.io/csc-310-project/phase2) | [Phase 3](https://marco-colonna.github.io/csc-310-project/phase3) | [Phase 4](https://marco-colonna.github.io/csc-310-project/phase4) | [Phase 5](https://marco-colonna.github.io/csc-310-project/phase5) | Phase 6 | Phase 7 |
+| [Main Page](https://marco-colonna.github.io/csc-310-project) | [Phase 1](https://marco-colonna.github.io/csc-310-project/phase1) | [Phase 2](https://marco-colonna.github.io/csc-310-project/phase2) | [Phase 3](https://marco-colonna.github.io/csc-310-project/phase3) | [Phase 4](https://marco-colonna.github.io/csc-310-project/phase4) | [Phase 5](https://marco-colonna.github.io/csc-310-project/phase5) | [Phase 6](https://marco-colonna.github.io/csc-310-project/phase6) | Phase 7 |
 
 ## Phase 1: Pick a system and representative tasks
 
