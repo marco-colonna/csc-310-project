@@ -1,138 +1,304 @@
-document.getElementById("balanceBtn").addEventListener("click", setBalanced);
-document.getElementById("perfBtn").addEventListener("click", setPerformance);
-document.getElementById("saverBtn").addEventListener("click", setSaver);
-document.getElementById("revert").addEventListener("click", setDefault);
-document.body.addEventListener("change", setCustom);
-  var allScreen = document.getElementsByClassName("screen");
-  var allDisk = document.getElementsByClassName("disk");
-  var allMedia = document.getElementsByClassName("media");
-  var allVideo = document.getElementsByClassName("video");
-  var allPlaying = document.getElementsByClassName("playing");
-  var allPwrBtn = document.getElementsByClassName("pwrBtn");
-  var allSlpBtn = document.getElementsByClassName("slpBtn");
-	for(i = 0; i<allScreen.length; i++){
-		allScreen[i].selectedIndex = "1";
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Power & sleep settings</title>
+</head>
+<style>
+body {
+  background-color: #121212; 
+  color: white;
+  font-family: segoe, sans-serif;
+}
+details {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+details>summary {
+    font-size: 1.2em;
+}
+details[open] > summary {
+}
+select {
+    display: inline-block;
+    width: 15em;
+	margin-left:3em;
+    background-color: black;
+    color: #ddd;
+    border: 2px solid #aaa;
+    padding: 5px;
+    margin-bottom: 2px;
+}
+input {
+	margin-left:1em;
 	}
-	for(i = 0; i<allDisk.length; i++){
-		allDisk[i].selectedIndex = "1";
-	}
-	for(i = 0; i<allMedia.length; i++){
-		allMedia[i].selectedIndex = "1";
-	}
-	for(i = 0; i<allVideo.length; i++){
-		allVideo[i].selectedIndex = "1";
-	}
-	for(i = 0; i<allPlaying.length; i++){
-		allPlaying[i].selectedIndex = "1";
-	}
-	for(i = 0; i<allPwrBtn.length; i++){
-		allPwrBtn[i].selectedIndex = "3";
-	}
-	for(i = 0; i<allSlpBtn.length; i++){
-		allSlpBtn[i].selectedIndex = "1";
-	}
-function setBalanced() {
-  document.getElementById("plan").innerHTML = "Balanced";
-	for(i = 0; i<allScreen.length; i++){
-		allScreen[i].selectedIndex = "8";
-	}
-	for(i = 0; i<allDisk.length; i++){
-		allDisk[i].selectedIndex = "10";
-	}
-	for(i = 0; i<allMedia.length; i++){
-		allMedia[i].selectedIndex = "2";
-	}
-	for(i = 0; i<allVideo.length; i++){
-		allVideo[i].selectedIndex = "1";
-	}
-	for(i = 0; i<allPlaying.length; i++){
-		allPlaying[i].selectedIndex = "1";
-	}
-	for(i = 0; i<allPwrBtn.length; i++){
-		allPwrBtn[i].selectedIndex = "3";
-	}
-	for(i = 0; i<allSlpBtn.length; i++){
-		allSlpBtn[i].selectedIndex = "1";
-	}
+button {
+    display: inline-block;
+    width: 15em;
+    margin-left: 1em;
+    padding: 0.5em;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    background-color: #333333;
+    border: none;
+    color: white;
+    box-sizing: border-box;
+}
+button:hover {
+    outline: 2px solid #858585;
+    outline-offset: -2px;
 }
 
-function setPerformance() {
-  document.getElementById("plan").innerHTML = "Performance";
-	for(i = 0; i<allScreen.length; i++){
-		allScreen[i].selectedIndex = "15";
-	}
-	for(i = 0; i<allDisk.length; i++){
-		allDisk[i].selectedIndex = "15";
-	}
-	for(i = 0; i<allMedia.length; i++){
-		allMedia[i].selectedIndex = "0";
-	}
-	for(i = 0; i<allVideo.length; i++){
-		allVideo[i].selectedIndex = "0";
-	}
-	for(i = 0; i<allPlaying.length; i++){
-		allPlaying[i].selectedIndex = "0";
-	}
-	for(i = 0; i<allPwrBtn.length; i++){
-		allPwrBtn[i].selectedIndex = "1";
-	}
-	for(i = 0; i<allSlpBtn.length; i++){
-		allSlpBtn[i].selectedIndex = "4";
-	}
+button:active {
+    outline: 1px solid #333333;
+    outline-offset: -1px;
+    background-color: #666666;
+    transform: scale(0.99);
 }
+label {
+	display: inline-block;
+	width: 15em;
+	margin-left:1em;
+	}
+label.cblabel {
+    width: auto;
+    padding-top: 5px;
+    display: block;
+	}
 
-function setSaver() {
-  document.getElementById("plan").innerHTML = "Power Saver";
-	for(i = 0; i<allScreen.length; i++){
-		allScreen[i].selectedIndex = "2";
-	}
-	for(i = 0; i<allDisk.length; i++){
-		allDisk[i].selectedIndex = "4";
-	}
-	for(i = 0; i<allMedia.length; i++){
-		allMedia[i].selectedIndex = "1";
-	}
-	for(i = 0; i<allVideo.length; i++){
-		allVideo[i].selectedIndex = "1";
-	}
-	for(i = 0; i<allPlaying.length; i++){
-		allPlaying[i].selectedIndex = "2";
-	}
-	for(i = 0; i<allPwrBtn.length; i++){
-		allPwrBtn[i].selectedIndex = "3";
-	}
-	for(i = 0; i<allSlpBtn.length; i++){
-		allSlpBtn[i].selectedIndex = "2";
-	}
+input[type="checkbox"] {
+    filter: invert(1) hue-rotate(180deg);
+    margin: 5px;
+    transform: scale(1.5);
 }
+.powerCategory{
+	display: inline-block;
+	width: 12em;
+	margin-left:3em;
+	}
 
-function setCustom() {
-	if(event.target.tagName == "SELECT"){
-		document.getElementById("plan").innerHTML = "Custom";
-	}
-}
+</style>
 
-function setDefault() {
-		document.getElementById("plan").innerHTML = "Default";
-	for(i = 0; i<allScreen.length; i++){
-		allScreen[i].selectedIndex = "1";
-	}
-	for(i = 0; i<allDisk.length; i++){
-		allDisk[i].selectedIndex = "1";
-	}
-	for(i = 0; i<allMedia.length; i++){
-		allMedia[i].selectedIndex = "1";
-	}
-	for(i = 0; i<allVideo.length; i++){
-		allVideo[i].selectedIndex = "1";
-	}
-	for(i = 0; i<allPlaying.length; i++){
-		allPlaying[i].selectedIndex = "1";
-	}
-	for(i = 0; i<allPwrBtn.length; i++){
-		allPwrBtn[i].selectedIndex = "3";
-	}
-	for(i = 0; i<allSlpBtn.length; i++){
-		allSlpBtn[i].selectedIndex = "1";
-	}
-}
+<body>
+	<h1>Power & Sleep</h1>
+	<label> </label>
+	<div class="powerCategory">
+	<label>Plugged in</label> 
+	</div>
+	<div class="powerCategory">
+	<label>On battery</label>
+	</div>
+	<br>
+    <label>Turn off screen after</label>
+        <select class="screen">
+            <option>1 minute</option>
+            <option>2 minutes</option>
+            <option>3 minutes</option>
+            <option>5 minutes</option>
+            <option>10 minutes</option>
+            <option>15 minutes</option>
+            <option>20 minutes</option>
+            <option>25 minutes</option>
+            <option>30 minutes</option>
+            <option>45 minutes</option>
+            <option>1 hour</option>
+            <option>2 hours</option>
+            <option>3 hours</option>
+            <option>4 hours</option>
+            <option>5 hours</option>
+            <option>Never</option>
+        </select>
+        <select class="screen">
+            <option>1 minute</option>
+            <option>2 minutes</option>
+            <option>3 minutes</option>
+            <option>5 minutes</option>
+            <option>10 minutes</option>
+            <option>15 minutes</option>
+            <option>20 minutes</option>
+            <option>25 minutes</option>
+            <option>30 minutes</option>
+            <option>45 minutes</option>
+            <option>1 hour</option>
+            <option>2 hours</option>
+            <option>3 hours</option>
+            <option>4 hours</option>
+            <option>5 hours</option>
+            <option>Never</option>
+        </select>
+    <br>
+    <label>Sleep after</label>
+        <select class="screen">
+            <option>1 minute</option>
+            <option>2 minutes</option>
+            <option>3 minutes</option>
+            <option>5 minutes</option>
+            <option>10 minutes</option>
+            <option>15 minutes</option>
+            <option>20 minutes</option>
+            <option>25 minutes</option>
+            <option>30 minutes</option>
+            <option>45 minutes</option>
+            <option>1 hour</option>
+            <option>2 hours</option>
+            <option>3 hours</option>
+            <option>4 hours</option>
+            <option>5 hours</option>
+            <option>Never</option>
+        </select>
+        <select class="screen">
+            <option>1 minute</option>
+            <option>2 minutes</option>
+            <option>3 minutes</option>
+            <option>5 minutes</option>
+            <option>10 minutes</option>
+            <option>15 minutes</option>
+            <option>20 minutes</option>
+            <option>25 minutes</option>
+            <option>30 minutes</option>
+            <option>45 minutes</option>
+            <option>1 hour</option>
+            <option>2 hours</option>
+            <option>3 hours</option>
+            <option>4 hours</option>
+            <option>5 hours</option>
+            <option>Never</option>
+        </select>
+    <details>
+        <summary>Power and sleep button settings</summary>
+        <label>When I press the power button</label>
+            <select class="pwrBtn">
+                <option>Do nothing</option>
+                <option>Sleep</option>
+                <option>Hibernate</option>
+                <option>Shut down</option>
+                <option>Turn off the display</option>
+            </select>
+            <select class="pwrBtn">
+                <option>Do nothing</option>
+                <option>Sleep</option>
+                <option>Hibernate</option>
+                <option>Shut down</option>
+                <option>Turn off the display</option>
+            </select>
+        <br>
+        <label>When I press the sleep button</label>
+            <select  class="slpBtn">
+                <option>Do nothing</option>
+                <option>Sleep</option>
+                <option>Hibernate</option>
+                <option>Shut down</option>
+                <option>Turn off the display</option>
+            </select>
+            <select  class="slpBtn">
+                <option>Do nothing</option>
+                <option>Sleep</option>
+                <option>Hibernate</option>
+                <option>Shut down</option>
+                <option>Turn off the display</option>
+            </select>
+    </details>
+    <details>
+        <summary>Startup and shutdown</summary>
+        <label class="cblabel"><input type="checkbox">Turn on fast startup</label>
+        <label class="cblabel"><input type="checkbox">Show Sleep in Power menu</label>
+        <label class="cblabel"><input type="checkbox">Show Hibernate in Power menu</label>
+        <label class="cblabel"><input type="checkbox">Show Lock in Power menu</label>
+    </details>
+    <details>
+        <summary>Advanced power settings</summary>
+        <label>Turn off hard disk after</label>
+            <select  class="disk">
+            <option>1 minute</option>
+            <option>2 minutes</option>
+            <option>3 minutes</option>
+            <option>5 minutes</option>
+            <option>10 minutes</option>
+            <option>15 minutes</option>
+            <option>20 minutes</option>
+            <option>25 minutes</option>
+            <option>30 minutes</option>
+            <option>45 minutes</option>
+            <option>1 hour</option>
+            <option>2 hours</option>
+            <option>3 hours</option>
+            <option>4 hours</option>
+            <option>5 hours</option>
+            <option>Never</option>
+            </select>
+            <select   class="disk">
+            <option>1 minute</option>
+            <option>2 minutes</option>
+            <option>3 minutes</option>
+            <option>5 minutes</option>
+            <option>10 minutes</option>
+            <option>15 minutes</option>
+            <option>20 minutes</option>
+            <option>25 minutes</option>
+            <option>30 minutes</option>
+            <option>45 minutes</option>
+            <option>1 hour</option>
+            <option>2 hours</option>
+            <option>3 hours</option>
+            <option>4 hours</option>
+            <option>5 hours</option>
+            <option>Never</option>
+            </select>
+        <br>
+        <label>When sharing media</label>
+            <select class = "media">
+                <option>Prevent sleep</option>
+				<option>Allow sleep</option>
+				<option>Allow away mode</option>
+            </select>
+            <select class = "media">
+                <option>Prevent sleep</option>
+				<option>Allow sleep</option>
+				<option>Allow away mode</option>
+            </select>
+        <br>
+        <label>Video playback priority</label>
+            <select class = "video">
+                <option>Quality</option>
+				<option>Performance</option>
+            </select>
+            <select class = "video">
+                <option>Quality</option>
+				<option>Performance</option>
+            </select>
+        <br>
+        <label>When playing video</label>
+            <select class = "playing">
+                <option>Optimize quality</option>
+				<option>Balanced</option>
+				<option>Optimize power saving</option>
+            </select>
+            <select class = "playing">
+                <option>Optimize quality</option>
+				<option>Balanced</option>
+				<option>Optimize power saving</option>
+            </select>
+    </details>
+    <details>
+        <summary>Preset settings</summary>
+		<label>Current Plan: </label>
+		<label id="plan"> Default </label>
+		<br>
+        <label>Set to balance settings</label>
+        <button id="balanceBtn">Change</button>
+        <br>
+        <label>Set to high performance settings</label>
+        <button id="perfBtn">Change</button>
+        <br>
+        <label>Set to power saver settings</label>
+        <button id="saverBtn">Change</button>
+		<br>
+		<label></label>
+		<button id="revert">Undo Change</button>
+    </details>
+	<button style="width: 10em;" onclick="window.open('https://support.microsoft.com/en-us/windows/how-to-adjust-power-and-sleep-settings-in-windows-26f623b5-4fcc-4194-863d-b824e5ea7679', '_blank');"> help </button>
+</body>
+ <script src="script.js"></script> 
+</html>
