@@ -4,10 +4,9 @@ Team Windows: Marco Colonna, Ella Nikitin, Aaron Prichard
 
 November 17th, 2022
 
-| [Main Page](https://marco-colonna.github.io/csc-310-project) | [Phase 1](https://marco-colonna.github.io/csc-310-project/phase1) | [Phase 2](https://marco-colonna.github.io/csc-310-project/phase2) | [Phase 3](https://marco-colonna.github.io/csc-310-project/phase3) | [Phase 4](https://marco-colonna.github.io/csc-310-project/phase4) | [Phase 5](https://marco-colonna.github.io/csc-310-project/phase5) | [Phase 6](https://marco-colonna.github.io/csc-310-project/phase6)| Phase 7 |
+| [Main Page](https://marco-colonna.github.io/csc-310-project) | [Phase 1](https://marco-colonna.github.io/csc-310-project/phase1) | [Phase 2](https://marco-colonna.github.io/csc-310-project/phase2) | [Phase 3](https://marco-colonna.github.io/csc-310-project/phase3) | [Phase 4](https://marco-colonna.github.io/csc-310-project/phase4) | [Phase 5](https://marco-colonna.github.io/csc-310-project/phase5) | [Phase 6](https://marco-colonna.github.io/csc-310-project/phase6)| [Phase 7](https://marco-colonna.github.io/csc-310-project/phase7) |
 
 ## Phase 6: Heuristic evaluation of a peer group's prototype
-
 
 ![team_goodreads_final_heuristic_evaulation-01](https://user-images.githubusercontent.com/113215701/202246479-25bd403c-2213-4326-a82f-850d762a2098.jpg)
 ![team_goodreads_final_heuristic_evaulation-02](https://user-images.githubusercontent.com/113215701/202246484-cccf9682-26cd-41b4-94b7-6dd662089ac0.jpg)
